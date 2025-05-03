@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+playwright
+nest_asyncio
+pandas
+tabulate
+tqdm
+python-dotenv
